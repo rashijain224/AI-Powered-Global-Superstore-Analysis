@@ -48,6 +48,17 @@ The goal was not only to answer business questions but also to present the findi
 - Some sub-categories generated high sales but relatively low profit due to higher discounts.
 
 ---
+## Skills Demonstrated
+
+- SQL (20+ business queries)
+- Power BI Dashboard Development
+- DAX Measures
+- Excel Pivot Tables
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- KPI Design
+- Business Intelligence Reporting
+- AI-assisted Analytics (ChatGPT & Microsoft Copilot)
 
 ## What I Learned
 
